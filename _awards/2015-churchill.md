@@ -1,6 +1,6 @@
 ---
 title: "Churchill Scholarship"
-collection: /awards/
+collection: awards
 type: Award
 permalink: /awards/2015-churchill
 granter: The Winston Churchill Foundation of the United States
