@@ -4,7 +4,7 @@ collection: mentoring
 type: "Junction"
 permalink: /mentoring/2014-gsw.md
 venue: "MIT Department of Materials Science and Engineering"
-date: 2016-2019-01-01
+date: 2019-01-01
 location: "Cambridge, MA, USA"
 ---
 
