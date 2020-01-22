@@ -7,4 +7,4 @@ granter: MIT Department of Materials Science and Engineering
 date: 2019
 ---
 
-Awarded to the single best TA of an undergraduate subject, voted by students and faculty
+Awarded to the single best TA of an undergraduate subject during the 2018-2019 academic year
