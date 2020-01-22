@@ -8,4 +8,4 @@ date: 2016-01-01
 location: "Cambridge, UK"
 ---
 
-TA’ed two series of labs: 1) thermal expansion, where students measured curvature and resulting bending strains in a biomaterial strip, and 2) creep, where students performed tests of solder wire at room temperature.
+TA’ed two series of labs: 1) thermal expansion, where students measured curvature and resulting bending strains in a bimaterial strip, and 2) creep, where students performed tests of solder wire at room temperature.
