@@ -1,8 +1,8 @@
 ---
 title: "Mentor"
-collection: teaching
+collection: mentoring
 type: "Junction"
-permalink: /teaching/2014-gsw.md
+permalink: /mentoring/2014-gsw.md
 venue: "MIT Educational Studies Program"
 date: 2017-01-01
 location: "Cambridge, MA, USA"
