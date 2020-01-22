@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "Teaching Assistant (lab)"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "3.032 (undergraduate)"
+permalink: /teaching/2018-mit3032lab
+venue: "MIT, Department of Materials Science and Engineering"
+date: 2018-01-01
+location: "Cambridge, MA, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+TA’ed a lab where students measured stress-strain curves of various materials using an Instron
