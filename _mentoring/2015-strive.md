@@ -1,7 +1,7 @@
 ---
 title: "Mentor"
 collection: mentoring
-#type: "Strive for College"
+type: "Strive for College"
 permalink: /mentoring/2014-gsw.md
 venue: "Strive for College"
 date: 2015-01-01
