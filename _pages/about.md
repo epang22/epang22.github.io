@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a 4th year PhD Candidate in the [Schuh Group](http://schuh.mit.edu/) at MIT. My research focuses on the development of zirconia shape-memory ceramic materials. I aim to understand the mechanics and crystallography of the martensitic phase transformation and use this knowledge to improve the material lifetime and push these materials towards the bulk scale. I also work on developing new open-source data analysis packages for electron backscatter diffraction (EBSD), particularly related to the emerging dictionary indexing technique (see my [Github](https://github.com/epang22/)).
+I am a 5th year PhD Candidate in the [Schuh Group](http://schuh.mit.edu/) at MIT, with expected graduation in May 2021. My research focuses on the development of zirconia shape-memory ceramic materials. I aim to understand the mechanics and crystallography of the martensitic phase transformation and use this knowledge to improve the material lifetime and push these materials towards the bulk scale. I also work on developing new open-source data analysis packages for electron backscatter diffraction (EBSD), particularly related to the emerging dictionary indexing technique (see my [Github](https://github.com/epang22/)). I also research Nitinol, iron, and copper based shape-memory alloys. I use computational tools (machine learning, ThermoCalc, my own custom codes) to design new and improved ceramic and metal alloy compositions.
 
 Previously, during my master's work in the [Rolls-Royce UTC](https://www.rrutc.msm.cam.ac.uk/) at the University of Cambridge, I studied the $\beta$-$\omega$ and $\beta$-$\alpha$" phase transformations in $\beta$-titanium alloys. When I was an undergraduate in the [Voorhees Research Group](http://speedy.ms.northwestern.edu/) at Northwestern University, I modeled the phase transformation kinetics in thin film materials to quantitatively explain the origin of abnormal kinetics in geometrically constrained systems.
 
-I am an aspiring academic who is broadly interested in phase transformations in materials and exploiting them to improve the next generation of structural and shape-memory metals and ceramics. I believe in the close integration of computation with experiments to accelerate materials development in pursuit of more energy-efficient materials and a more sustainable world.
+I am broadly interested in research and development of better structural and shape-memory metals and ceramics. I believe in the close integration of computation with experiments to accelerate materials development in pursuit of more energy-efficient materials and a more sustainable world.
 
 About this site
 ======
