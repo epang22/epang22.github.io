@@ -7,7 +7,7 @@ author_profile: true
 
 <!---
 This version of talks automatically populates these fields from entries in folder talks.
-To activate this feature, rename this file 'talks.html', and rename 'talks.md' to something else.
+To activate this feature, rename this file 'talks.html', rename 'talks.md' to something else, uncomment code below.
 -->
 
 
@@ -17,13 +17,10 @@ To activate this feature, rename this file 'talks.html', and rename 'talks.md' t
 <p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
 
 {% endif %}
--->
 
 
-
-# Use this block if you want to populate these fields automatically from entries in folder talks)
 
 {% for post in site.talks reversed %}
   {% include archive-single-talk.html %}
 {% endfor %}
-
+-->
