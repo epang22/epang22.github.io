@@ -4,3 +4,4 @@ Notes:
 - Data in the Mentoring, Service, Awards, and Press sections are pulled from pages/(relevant .md file), not compiled from the individual files in the named folders
 - Data in the Talks and Teaching sections are pulled from the individual files in the named folders (compiled by the named script in pages/)
 - Home page text is defined in: _pages/about.md
+- Sidebar info is defined in: _config.yml
