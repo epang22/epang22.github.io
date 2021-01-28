@@ -1,0 +1,17 @@
+---
+layout: archive
+title: "Teaching"
+permalink: /teaching/
+author_profile: true
+---
+
+<!---
+This version of teaching automatically populates these fields from entries in folder teaching.
+To activate this feature, rename this file 'teaching.html', and rename 'teaching.md' to something else.
+-->
+
+{% include base_path %}
+
+{% for post in site.teaching reversed %}
+  {% include archive-single.html %}
+{% endfor %}
